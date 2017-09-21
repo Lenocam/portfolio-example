@@ -155,6 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
+    /*background: url(../img/Death_to_Stock_Chasing_Sunrise_3_Julian_DeSchutter.jpg) no-repeat center center scroll;*/
     background: url(../img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
